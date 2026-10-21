@@ -1,0 +1,7 @@
+name = "yajuu-status"
+main = "src.js"
+compatibility_date = "2026-10-21"
+
+[assets]
+directory = "./public"
+binding = "ASSETS"
